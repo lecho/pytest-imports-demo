@@ -1,4 +1,4 @@
-import script2
+from mypackage import script2
 
 
 class Bar:
